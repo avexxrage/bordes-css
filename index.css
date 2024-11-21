@@ -17,9 +17,9 @@ body {
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 0.3fr 2fr 1fr 0.3fr; 
     gap: 10px;
-    width: 50%;
-    max-width: 1200px;
-    height: 90vh;
+    width: 100%;
+    max-width: 1600px;
+    height: 99vh;
   }
   
   .header {
